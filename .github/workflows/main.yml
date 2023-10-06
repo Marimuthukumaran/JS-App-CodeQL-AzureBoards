@@ -16,7 +16,7 @@ jobs:
           github_token: "${{ secrets.GH_PERSONAL_ACCESS_TOKEN }}"
           ado_organization: "yesmmkumaran"
           ado_project: "CodeQL-Works"
-          ado_wit: "To Do"
+          ado_new_state: "To Do"
           ado_active_state: "Doing"
           ado_close_state: "Done"
           ado_bypassrules: true
